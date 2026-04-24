@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(90deg, rgb(56, 125, 199), rgb(128, 176, 189));
+}
+
+div {
+    position: absolute;
+    background-color: aliceblue;
+    border-radius: 115px;
+    width: 450px;
+    height: 400px;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    box-shadow: 30px 30px 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 9px 10px 13px black;
+    color: rgb(68, 115, 167)
+}
+
+h2{
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(58, 165, 207)
+}
+
