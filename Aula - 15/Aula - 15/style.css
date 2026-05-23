@@ -1,0 +1,10 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.fundo {
+    border-style:solid; 
+    width: 420px; 
+    height: 200px;
+}
